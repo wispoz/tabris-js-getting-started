@@ -8,7 +8,7 @@ var button = tabris.create("Button", {
   layoutData: {centerX: 0, top: 100}
 }).appendTo(page);
 
-var label = tabris.create("Label", {
+var label = tabris.create("TextView", {
   font: "24px",
   layoutData: {centerX: 0, top: [button, 50]}
 }).appendTo(page);
