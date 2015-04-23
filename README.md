@@ -1,2 +1,3 @@
-# tabris-js-getting-started
-Provides a minimal setup of a Tabris.js project and information to get started
+# Tabris.js Getting Started
+
+A minimal template of a Tabris.js project to get you started.

@@ -13,7 +13,7 @@ var label = tabris.create("TextView", {
   layoutData: {centerX: 0, top: [button, 50]}
 }).appendTo(page);
 
-button.on("selection", function() {
+button.on("select", function() {
   label.set("text", "Totally Rock!");
 });
 
